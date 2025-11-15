@@ -1,4 +1,4 @@
-- 👋 Hi, I’m: @SS-DataAnalyst "Job role: Data Analyst and Oracle DBA Lead"
+- 👋 Hi, I’m: @SS-DataAnalyst "Job role: Senior Oracle DBA and Data Analyst +  AIML Python-coder"
 👀 Focused in: Data Analysis "BI/Data Analytics", Busniness Analysis, and Data Science.
 🌱 Currently a qualified Data Analyst with Oracle DB-admin vast experience, focused to enhance expertise to the next level "as Data scientist".
 💞️ Looking forward to join pioneer Data Analytics organization as Data/Business Analyst to collaborate on interesting and challenging Data Analytics projects.
