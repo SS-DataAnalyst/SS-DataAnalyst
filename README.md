@@ -1,9 +1,9 @@
-- 👋 Hi, I’m: @SS-DataAnalyst "Job role: Senior Oracle DBA and Data Analyst +  AIML Python-coder"
-👀 Focused in: Data Analysis "BI/Data Analytics", Busniness Analysis, and Data Science.
-🌱 Currently a qualified Data Analyst with Oracle DB-admin vast experience, focused to enhance expertise to the next level "as Data scientist".
-💞️ Looking forward to join pioneer Data Analytics organization as Data/Business Analyst to collaborate on interesting and challenging Data Analytics projects.
+- 👋 Hi, I’m: @SS-DataAnalyst "Job role: Senior Oracle+OpenSource databases "mySQL, PostgreSQL" DBA, for cloud as well as  on-premises managed DBs.
+👀 Other focused-interest areas: Advanced automation using Python, Data Analysis "BI/Data Analytics", Busniness Analysis, Data Science, AI-ML.
+🌱 Currently an experienced Oracle+OpenSource database DBA LEAD.
+💞️ Looking forward to join pioneer organization which allows to exhibit all round expertise as per my versatile tech skil-set and job profile, including LEAD + collaborating capabilities proven already as per vast IT/DB-admin experience in challenging projects worked on across varied domains in all organizations as mentioned in CV.
 📫 How to reach me: shakeel_odba@yahoo.com, www.linkedin.com/in/shakeel-siddiqui-30000332b
-😄 Pronouns: Data Analytics. Focused to be a Business Analyst and Data Scientist as well, as Data Analyst is just an initial step to that journey.
+😄 Pronouns: Focused to be a versatile tech LEAD who understand almost all major demanding tech domains hence can guide and lead all involved tech teams to have efficient running project. 
 ⚡ Fun fact: Like old soothing music having meaningful lyrics, watching insightful interviews and podcasts, and thought provoking movies which more than entertain.
 
 <!---
