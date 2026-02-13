@@ -3,7 +3,7 @@
 🌱 Currently an experienced Oracle+OpenSource database DBA LEAD.
 💞️ Looking forward to join pioneer organization which allows to exhibit all round expertise as per my versatile tech skil-set and job profile, including LEAD + collaborating capabilities proven already as per vast IT/DB-admin experience in challenging projects worked on across varied domains in all organizations as mentioned in CV.
 📫 How to reach me: shakeel_odba@yahoo.com, www.linkedin.com/in/shakeel-siddiqui-30000332b
-😄 Pronouns: Focused to be a versatile tech LEAD who understand almost all major demanding tech domains hence can guide and lead all involved tech teams to have efficient running project. 
+😄 Pronouns: Focused to be a versatile tech LEAD who understands almost all major demanding tech domains hence can guide and lead all involved tech teams to have efficient running project. 
 ⚡ Fun fact: Like old soothing music having meaningful lyrics, watching insightful interviews and podcasts, and thought provoking movies which more than entertain.
 
 <!---
